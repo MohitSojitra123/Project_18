@@ -339,6 +339,7 @@
   background-size: cover;
   display: grid;
   place-items: center;
+  padding-left:20px;
 }
 
 .content_a1 h4,
